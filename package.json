@@ -1,0 +1,28 @@
+{
+  "name": "mincer-fileskipper",
+  "description": "Tell Mincer to skip certain files",
+  "version": "0.0.1",
+  "main": "index.coffee",
+  "homepage": "http://github.com/steel/mincer-fileskipper",
+  "devDependencies": {
+    "mincer": "0.5.13"
+  },
+  "author": {
+    "name": "Steel Fu",
+    "email": "steelfu@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mincer",
+    "mincer-contrib",
+    "erb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steel/mincer-fileskipper.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steel/mincer-fileskipper/issues"
+  }
+}
